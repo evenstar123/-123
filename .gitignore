@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+.env
+.venv/
+venv/
+.venv/
+output/
+rendered/
+*.mp4
+*.mov
